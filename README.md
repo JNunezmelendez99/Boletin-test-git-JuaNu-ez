@@ -1,4 +1,4 @@
-# Boletín de Noticias | Gemmy Genny
+# Boletín de Noticias | Genny Genny
 
 ¡Bienvenido al repositorio del Boletín de Noticias de **Gemmy Genny**! Este proyecto está diseñado para revolucionar la atención al cliente a través de la inteligencia artificial y resaltar nuestras iniciativas de **AI for Good**. Aquí podrás encontrar información valiosa sobre nuestras soluciones innovadoras y cómo están impactando positivamente en las comunidades.
 
